@@ -5,7 +5,7 @@ Zadanie 1 – Aplikacja Pogodowa
  Linki
 
 - GitHub:https://github.com/Januariusz/zadanie1
-- DockerHub: https://hub.docker.com/repository/docker/kjanusz884/weather-app/general
+- DockerHub: https://hub.docker.com/r/kjanusz884/weather-app
 
 1. Kod aplikacji (`app.py`)
 
