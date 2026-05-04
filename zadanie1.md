@@ -174,7 +174,7 @@ Port nasłuchiwania TCP: 5000
 d) Liczba warstw i rozmiar obrazu
 
  Rozmiar obrazu
-docker image inspect weather-app --format='{{.Size}}' | awk '{printf "%.2f MB\n", $1/1024/1024}'
+docker images weather-app
 
 Dokładna liczba warstw
 docker history weather-app | tail -n +2 | wc -l
